@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This project uses the following dependencies:
+
+- [PySocks](https://github.com/Anorov/PySocks) (BSD License)
+- [certifi](https://github.com/certifi/python-certifi) (Mozilla Public License 2.0)
+- [charset-normalizer](https://github.com/Ousret/charset_normalizer) (MIT License)
+- [idna](https://github.com/kjd/idna) (BSD License)
+- [requests](https://docs.python-requests.org/en/latest/) (Apache 2.0)
+- [stem](https://stem.torproject.org/) (LGPLv3)
+- [urllib3](https://github.com/urllib3/urllib3) (MIT License)
