@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='torproxy_client',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     license='MIT',
     description='A simple Python library to connect to the internet through Tor proxy.',
