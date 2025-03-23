@@ -1,6 +1,6 @@
-# TorProxy
+# TorProxy-Client
 
-**TorProxy** is a simple Python library to connect to the internet through the Tor network using a proxy. It helps developers easily route their traffic through the Tor network to achieve better anonymity.
+**TorProxy-Client** is a simple Python library to connect to the internet through the Tor network using a proxy. It helps developers easily route their traffic through the Tor network to achieve better anonymity.
 
 ## Features
 
@@ -11,7 +11,7 @@
 
 ## Prerequisites
 
-Before using **TorProxy**, you need to have **Tor** installed on your system. Below are the installation instructions for different platforms:
+Before using **TorProxy-Client**, you need to have **Tor** installed on your system. Below are the installation instructions for different platforms:
 
 ### Windows
 
@@ -111,17 +111,17 @@ sudo systemctl enable tor
 
 ## Installation
 
-To install **TorProxy**, use `pip`:
+To install **TorProxy-Client**, use `pip`:
 
 ```bash
-pip install torproxy
+pip install torproxy_client
 ```
 
 ## Usage
-Once installed, you can use TorProxy to configure your application to route traffic through the Tor network.
+Once installed, you can use TorProxy-Client to configure your application to route traffic through the Tor network.
 
 ```python
-from torproxy import TorProxyClient
+from torproxy_client import TorProxyClient
 import requests
 
 # Initialize the Tor proxy client

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='torproxy',
+    name='torproxy_client',
     version='0.1.0',
     packages=find_packages(),
     license='MIT',
@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     author='mi8bi',
     author_email='mi8biiiii@gmail.com',
-    url='https://github.com/mi8bi/torproxy',
+    url='https://github.com/mi8bi/torproxy_client',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
