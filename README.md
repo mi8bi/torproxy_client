@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![PyPI version](https://badge.fury.io/py/torproxy-client.svg)](https://badge.fury.io/py/torproxy-client)
+![Build Status](https://img.shields.io/github/workflow/status/mi8bi/torproxy/Publish%20to%20PyPI)
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+
 # TorProxy-Client
 
 **TorProxy-Client** is a simple Python library to connect to the internet through the Tor network using a proxy. It helps developers easily route their traffic through the Tor network to achieve better anonymity.
@@ -66,7 +71,6 @@ sudo systemctl start tor
 
 ```
 sudo systemctl enable tor
-
 ```
 
 Fedora
