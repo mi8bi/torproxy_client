@@ -3,7 +3,7 @@
 [![Publish to PyPI](https://github.com/mi8bi/torproxy_client/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/mi8bi/torproxy_client/actions/workflows/publish.yml)
 ![Python Version](https://img.shields.io/badge/python-3.12-blue)
 
-# TorProxy-Client
+# [TorProxy-Client](https://mi8bi.github.io/torproxy_client/)
 
 **TorProxy-Client** is a simple Python library to connect to the internet through the Tor network using a proxy. It helps developers easily route their traffic through the Tor network to achieve better anonymity.
 
