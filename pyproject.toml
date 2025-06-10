@@ -12,7 +12,7 @@ authors = [
 license = "MIT"
 readme = "README.md"
 dependencies = [
-    "requests==2.32.3",
+    "requests==2.32.4",
     "stem==1.8.2",
     "PySocks==1.7.1",
 ]
